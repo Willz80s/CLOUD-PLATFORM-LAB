@@ -1,0 +1,23 @@
+
+*.log
+*.temp
+*.tmp
+*.o
+*.obj
+*.pyc  
+/temp
+/build
+/dist
+/node_modules 
+.DS_Store      # macOS
+Thumbs.db      # Windows
+ehthumbs.db    # Windows
+Desktop.ini    # Windows
+.vscode/        # VS Code directory
+.idea/          # JetBrains IDEs
+*.swp           # Vim swap files
+*.sublime-project
+*.sublime-workspace
+.env            # Environment variables file
+config.local.json
+credentials.json
