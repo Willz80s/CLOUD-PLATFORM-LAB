@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: api
-          image: cloud-platform-api
+          image: willz80s/cloud-platform-api:latest 
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 3000
